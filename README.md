@@ -11,13 +11,13 @@ A simple HTTP static web server built with Node.js that serves static content fr
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/http-static-server.git
+git clone https://github.com/nivmachlis/Developing-mobile-web-apps-ex2.git
 ```
 
 2. Navigate to the project directory:
 
 ```shell
-cd Developing mobile-web apps-ex2
+cd Developing-mobile-web-apps-ex2
 ```
 
 3. Install dependencies:
